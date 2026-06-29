@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-06-29 23:28 — Sport tab: cas startu Tour ("start 13:05") zvyraznen na Space Grotesk vahu 700, vetsi (11px) a svetlejsi, aby typografie jednoznacne odpovidala fotbalovym casum. Razeni podle casu uz bylo z 23:11.
+Posledni trigger: 2026-06-29 23:32 — Sport tab: u Tour je ted start nahore jako maly popisek ("start 13:05") a pod nim dojezd ve stejne velikosti jako fotbalovy cas (21px, zlaty). Hlavni casy v seznamu maji jednotnou velikost.
