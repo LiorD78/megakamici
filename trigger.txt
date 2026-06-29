@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-06-29 19:26 — Sport tab: AUTO-UPDATE fotbalu MS z ESPN (CORS, zdarma, bez klice). Tymy, skore i stav zapasu se nactou zive, jakmile se rozehraje pavouk; nazvy kol bere z feedu (sestnactifinale -> osmifinale -> ctvrtfinale). Cachuje se do localStorage (funguje offline), pri vypadku spadne na staticky rozpis. Tahá se pri otevreni/navratu do appky + kazdych 120s kdyz je tab aktivni. Tour zustava staticky rozpis (zadny CORS feed).
+Posledni trigger: 2026-06-29 19:31 — Sport tab: novy filtr "Hory" (4. tlacitko v segmentu) ukaze jen horske etapy Tour (E3 6.7. a E6 9.7.), bez fotbalu a bez rovinatych etap. Zustava i auto-update fotbalu MS z ESPN.
