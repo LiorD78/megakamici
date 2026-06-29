@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-06-29 17:31 — HEIC -> JPEG prevod (heic2any, lazy load)
+Posledni trigger: 2026-06-29 17:39 — dlazdice Fotbalek: "srdecni zalezitost"
