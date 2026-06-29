@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-06-29 18:06 — auto-update: appka pri startu i navratu kontroluje version.txt a sama se prenacte na novou verzi (resi zaseknutou starou verzi na ploche iPhone)
+Posledni trigger: 2026-06-29 18:59 — novy tab Sport: MS ve fotbale (osmifinale + ctvrtfinale) a Tour de France etapy 5.-12.7., den po dni v ceskem case, vlastni grafika (trofej, zluty dres, barevne typy etap)
