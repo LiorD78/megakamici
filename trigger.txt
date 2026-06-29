@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-06-29 17:40 — sjednoceno "srdecni zalezitost" i v AI kontextu
+Posledni trigger: 2026-06-29 17:48 — odstranen Generator chaosu (chip, funkce, AI prompt, popisky)
