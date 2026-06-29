@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-06-29 18:59 — novy tab Sport: MS ve fotbale (osmifinale + ctvrtfinale) a Tour de France etapy 5.-12.7., den po dni v ceskem case, vlastni grafika (trofej, zluty dres, barevne typy etap)
+Posledni trigger: 2026-06-29 19:10 — Sport tab: kazda etapa Tour ma cas (velke cislo = odhad dojezdu, pod nim realny start ~13:05 rovinate/kopcovite, ~12:15 horske, vse v ceskem case); opraven zlaty kachlik "8 etap Tour" na jasne zlate pozadi (tmavy text ted vidno).
