@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-06-29 23:03 — oprava preklepu u E6: "horky dojezd" -> "horsky dojezd" (summit finish).
+Posledni trigger: 2026-06-29 23:07 — robustnejsi auto-update: casova pojistka misto verzni (zkusi reload znovu pri dalsim probuzeni) + unikatni cache-buster, aby iOS home-screen app neuvizla na stare cache. Obsahuje i fix "horsky dojezd".
