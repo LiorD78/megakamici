@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-06-29 19:31 — Sport tab: novy filtr "Hory" (4. tlacitko v segmentu) ukaze jen horske etapy Tour (E3 6.7. a E6 9.7.), bez fotbalu a bez rovinatych etap. Zustava i auto-update fotbalu MS z ESPN.
+Posledni trigger: 2026-06-29 19:36 — Sport tab: dvouurovnovy filtr. Hlavni prepinac Vse/Fotbal/Tour + samostatny filtr typu etapy (Vse / Horske / Rovinate / Kopcovite). Lze tedy zobrazit fotbal A k tomu jen horske etapy (Vse + Horske). Filtr typu se skryje pri Fotbal. Hero text zmenen na "Na co koukat". Zustava auto-update fotbalu z ESPN.
