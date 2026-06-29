@@ -1,3 +1,3 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
 Build stahne aktualni appku ze Supabase uloziste.
-Posledni trigger: 2026-06-28 23:04 (verze appky 23:04)
+Posledni trigger: 2026-06-29 08:28 — zjednoduseny ajnclik (prepinac u clena)
