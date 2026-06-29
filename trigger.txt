@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-06-29 19:36 — Sport tab: dvouurovnovy filtr. Hlavni prepinac Vse/Fotbal/Tour + samostatny filtr typu etapy (Vse / Horske / Rovinate / Kopcovite). Lze tedy zobrazit fotbal A k tomu jen horske etapy (Vse + Horske). Filtr typu se skryje pri Fotbal. Hero text zmenen na "Na co koukat". Zustava auto-update fotbalu z ESPN.
+Posledni trigger: 2026-06-29 23:01 — oprava preklepu: badge horske etapy "HORKA" -> "HORSKA".
