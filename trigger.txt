@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-06-29 23:07 — robustnejsi auto-update: casova pojistka misto verzni (zkusi reload znovu pri dalsim probuzeni) + unikatni cache-buster, aby iOS home-screen app neuvizla na stare cache. Obsahuje i fix "horsky dojezd".
+Posledni trigger: 2026-06-29 23:11 — Sport tab: zapasy a etapy v ramci dne se radi podle casu (Tour dojezd se prolina s fotbalem, napr. 9.7. E6 ~17:30 pred Bostonem 22:00). Sjednocen font casu startu Tour (Space Grotesk jako u fotbalu).
