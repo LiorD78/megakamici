@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-06-29 23:11 — Sport tab: zapasy a etapy v ramci dne se radi podle casu (Tour dojezd se prolina s fotbalem, napr. 9.7. E6 ~17:30 pred Bostonem 22:00). Sjednocen font casu startu Tour (Space Grotesk jako u fotbalu).
+Posledni trigger: 2026-06-29 23:28 — Sport tab: cas startu Tour ("start 13:05") zvyraznen na Space Grotesk vahu 700, vetsi (11px) a svetlejsi, aby typografie jednoznacne odpovidala fotbalovym casum. Razeni podle casu uz bylo z 23:11.
