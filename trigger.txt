@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-06-29 19:10 — Sport tab: kazda etapa Tour ma cas (velke cislo = odhad dojezdu, pod nim realny start ~13:05 rovinate/kopcovite, ~12:15 horske, vse v ceskem case); opraven zlaty kachlik "8 etap Tour" na jasne zlate pozadi (tmavy text ted vidno).
+Posledni trigger: 2026-06-29 19:26 — Sport tab: AUTO-UPDATE fotbalu MS z ESPN (CORS, zdarma, bez klice). Tymy, skore i stav zapasu se nactou zive, jakmile se rozehraje pavouk; nazvy kol bere z feedu (sestnactifinale -> osmifinale -> ctvrtfinale). Cachuje se do localStorage (funguje offline), pri vypadku spadne na staticky rozpis. Tahá se pri otevreni/navratu do appky + kazdych 120s kdyz je tab aktivni. Tour zustava staticky rozpis (zadny CORS feed).
