@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-06-29 17:48 — odstranen Generator chaosu (chip, funkce, AI prompt, popisky)
+Posledni trigger: 2026-06-29 18:01 — fix mizejicich fotek: avatary se obnovuji pri navratu do appky (visibility/focus/pageshow) + 1 retry pri vypadku site
