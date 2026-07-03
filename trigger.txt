@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 19:09 — Doporucene casy rezervaci posunuty s velkou rezervou na pohodove tempo (jede se rychlosti nejpomalejsiho, sklenky bez spechu, pomaly rozjezd party): UT obed 14:30, CT Sobes 13:00, CT Pivovar Hnanice 14:30, PO podzemi 11:00 / obed 13:00. Casova osa uterni trasy sladena (~13:45 vinice, 14:30 obed, 16:00 Malovany sklep) + veta o tempu.
+Posledni trigger: 2026-07-03 19:21 — Do stredecniho hlasovani (Streda — odpocinek) pridana volba "Nohejbal/beach kurt + koupani (Louka)" — kurty jsou hned u koupaliste, jde to spojit. Upraven i podtitul hlasovani.
