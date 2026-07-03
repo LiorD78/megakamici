@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 17:53 — Haptika (hapOn helper, neviditelny nativni switch) pridana na: spodni navigaci, teaser karty, hilite karty, tlacitko NA ZDRAVI, hlavicky dnu v Programu a fotku vily. Prepnuti na Vilu je okamzite (odstranen 60ms timeout).
+Posledni trigger: 2026-07-03 18:02 — AI zalozka roztazena na celou vysku obrazovky (flex layout), chat roste a vstupni pole je prilepene dole u navigace. Zmizel prazdny prostor a sev pozadi pod obsahem.
