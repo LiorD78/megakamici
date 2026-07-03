@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 14:58 — FIX: checklist "Co s sebou?" byl neviditelny (packCard mel tridu reveal, ale IntersectionObserver sleduje jen .card a .transport, takze karta zustala opacity:0). Trida reveal z packCard odebrana, obsah se ted zobrazuje normalne.
+Posledni trigger: 2026-07-03 17:39 — Fotka vily "Nase zakladna" na HP je nyni klikatelna a prepne rovnou do zalozky Vila. Zaroven backport checklistu "Co s sebou?" do zdrojove sablony v7.html.
