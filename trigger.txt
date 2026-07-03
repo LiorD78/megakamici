@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 19:02 — Doporucene casy rezervaci: u pole pro cas je zlate tlacitko "Doporuceno na X" + duvod, spocitane z casove osy pohodove jizdy vcetne zastavek predtim (napr. obed na trase 14:00 = vyraz 13:00 + sklenka ve vinici; Pivovar Hnanice 13:30 = po sklence na Sobesu). Tuknuti cas predvyplni a ulozi pro vsechny.
+Posledni trigger: 2026-07-03 19:09 — Doporucene casy rezervaci posunuty s velkou rezervou na pohodove tempo (jede se rychlosti nejpomalejsiho, sklenky bez spechu, pomaly rozjezd party): UT obed 14:30, CT Sobes 13:00, CT Pivovar Hnanice 14:30, PO podzemi 11:00 / obed 13:00. Casova osa uterni trasy sladena (~13:45 vinice, 14:30 obed, 16:00 Malovany sklep) + veta o tempu.
