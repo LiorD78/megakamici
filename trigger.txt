@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 19:21 — Do stredecniho hlasovani (Streda — odpocinek) pridana volba "Nohejbal/beach kurt + koupani (Louka)" — kurty jsou hned u koupaliste, jde to spojit. Upraven i podtitul hlasovani.
+Posledni trigger: 2026-07-03 19:40 — Pruzkum statnich svatku 5.+6.7. zanesen do appky: NE Kaufland otevreno normalne (zakon cervencove svatky neomezuje), PO novy blok Statni svatek (podzemi denne 9-18 ale nabito -> rezervace predem, MaxWilliam otvira 13:00), KOLOR ma NE+PO zavreno -> volat do patku 4.7., vikendovy vydej pres samoobsluzny box primo v Novem Saldorfu.
