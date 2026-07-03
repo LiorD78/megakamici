@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 17:48 — Haptika na fotce vily pres neviditelny nativni switch prekryvajici cely prvek (iOS 26.5 zablokoval programove spousteni, primy dotyk na switch funguje). Android dostava vibraci pres hap(30).
+Posledni trigger: 2026-07-03 17:53 — Haptika (hapOn helper, neviditelny nativni switch) pridana na: spodni navigaci, teaser karty, hilite karty, tlacitko NA ZDRAVI, hlavicky dnu v Programu a fotku vily. Prepnuti na Vilu je okamzite (odstranen 60ms timeout).
