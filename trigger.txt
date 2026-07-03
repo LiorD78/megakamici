@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 18:39 — Klikaci dny: tap na den v pocasi nebo v planu skoci na ten den v Programu. V kazdem dnu Programu novy prepinac hlavni aktivity (Auto/Kolo/Sobes/Voda/Mesto/Volno, sdileny pres tabulku znojmo_day_acts) — zamceny den (pin) drzi a zbytek tydne se preplanovava podle pocasi, takze odlozena aktivita nepropadne a nabidne se na dalsi vhodny den. Chipy s planem primo na kartach dnu.
+Posledni trigger: 2026-07-03 18:44 — Oprava scrollu pri skoku na den v Programu: scroll-margin-top kvuli sticky hlavicce a opakovane docentrovani po dojeti collapse/expand animace, takze den skonci nahore a ne uprostred.
