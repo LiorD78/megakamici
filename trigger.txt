@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 18:48 — Odstraneno hlasovani "Utery — jak velky narez na kole" (pocet sklipku se nehlasuje, vyplyne z jizdy; jestli se na kolo jede, resi volba aktivity dne). Z uterni karty v Programu zmizel i chip Zatim vede.
+Posledni trigger: 2026-07-03 18:57 — Vsechny mapove odkazy (2 cyklotrasy + 14 navigaci ke sklepum) prevedeny na oficialni Mapy.com URL formu fnc/v1/route s explicitnim routeType=bike_mountain (horske kolo). Empiricky overeno: bike_mountain = c:121, stare odkazy s c:123 horske kolo nebyly. Cil okruhu posunut na Modre sklepy (start==end endpoint zahazoval).
