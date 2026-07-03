@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 18:57 — Vsechny mapove odkazy (2 cyklotrasy + 14 navigaci ke sklepum) prevedeny na oficialni Mapy.com URL formu fnc/v1/route s explicitnim routeType=bike_mountain (horske kolo). Empiricky overeno: bike_mountain = c:121, stare odkazy s c:123 horske kolo nebyly. Cil okruhu posunut na Modre sklepy (start==end endpoint zahazoval).
+Posledni trigger: 2026-07-03 19:02 — Doporucene casy rezervaci: u pole pro cas je zlate tlacitko "Doporuceno na X" + duvod, spocitane z casove osy pohodove jizdy vcetne zastavek predtim (napr. obed na trase 14:00 = vyraz 13:00 + sklenka ve vinici; Pivovar Hnanice 13:30 = po sklence na Sobesu). Tuknuti cas predvyplni a ulozi pro vsechny.
