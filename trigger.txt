@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 18:44 — Oprava scrollu pri skoku na den v Programu: scroll-margin-top kvuli sticky hlavicce a opakovane docentrovani po dojeti collapse/expand animace, takze den skonci nahore a ne uprostred.
+Posledni trigger: 2026-07-03 18:48 — Odstraneno hlasovani "Utery — jak velky narez na kole" (pocet sklipku se nehlasuje, vyplyne z jizdy; jestli se na kolo jede, resi volba aktivity dne). Z uterni karty v Programu zmizel i chip Zatim vede.
