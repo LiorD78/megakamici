@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 18:02 — AI zalozka roztazena na celou vysku obrazovky (flex layout), chat roste a vstupni pole je prilepene dole u navigace. Zmizel prazdny prostor a sev pozadi pod obsahem.
+Posledni trigger: 2026-07-03 18:11 — Haptika ve Fotbalku (+/-, zapsat, upravit) a redesign ajncliku: tlacitka Ulozit/Upravit, denni evidence noci v nove tabulce znojmo_ajn_nights, statistika ferovky a vypocet naroku na ajnclik pro pristi akci.
