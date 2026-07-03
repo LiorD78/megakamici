@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 14:41 — Vila / Nase rezervace: doplneny udaje od spravkyne Jitky (Saldorfska vila, Nova 326): WiFi heslo vino0411, klice pripadne v boxu s kodem 0411, nocni klid od 22:00. Tip zmenen: Jitka chce vedet cas prijezdu v nedeli — dat ji vedet SMS/telefonem.
+Posledni trigger: 2026-07-03 14:58 — FIX: checklist "Co s sebou?" byl neviditelny (packCard mel tridu reveal, ale IntersectionObserver sleduje jen .card a .transport, takze karta zustala opacity:0). Trida reveal z packCard odebrana, obsah se ted zobrazuje normalne.
