@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 18:11 — Haptika ve Fotbalku (+/-, zapsat, upravit) a redesign ajncliku: tlacitka Ulozit/Upravit, denni evidence noci v nove tabulce znojmo_ajn_nights, statistika ferovky a vypocet naroku na ajnclik pro pristi akci.
+Posledni trigger: 2026-07-03 18:32 — Auto-plan tydne podle pocasi je ted lokalni: tlacitko uz neprepina do AI chatu, jen prepocita rozdeleni dnu z aktualni predpovedi. Behem pobytu planuje jen zbyvajici dny, odbyte aktivity (zmrazene v localStorage mk_wxplan) se uz znovu nenabizeji a zobrazi se jako "Mate za sebou". AI kontext dostal auto-plan jako zavazny ramec.
