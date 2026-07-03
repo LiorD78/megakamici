@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 17:39 — Fotka vily "Nase zakladna" na HP je nyni klikatelna a prepne rovnou do zalozky Vila. Zaroven backport checklistu "Co s sebou?" do zdrojove sablony v7.html.
+Posledni trigger: 2026-07-03 17:43 — Haptika ted funguje i na iOS (switch-input trik, navigator.vibrate iOS nepodporuje). Klik na Nasi zakladnu ma silnou haptiku (dvojity tik / 30ms vibrace).
