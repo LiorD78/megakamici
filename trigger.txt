@@ -1,2 +1,2 @@
 Tento soubor slouzi jen ke spusteni Netlify buildu.
-Posledni trigger: 2026-07-03 20:45 — K rezervaci nohejbal/beach kurtu na strede pridan web odkaz na sportovisteznojmo.cz (kurty pro beach a nohejbal) a upresnen hint (beach pisek 8x18, nohejbal tartan 9x18).
+Posledni trigger: 2026-07-03 20:54 — Weby doplneny kam to slo (vse overene): nova zlata pilulka Web u mist v Programu (Kaufland, podzemi/vez, MaxWilliam, THAYA, Vranovska plaz, plovarna Louka, Pivovar Hnanice), weby u rezervaci (MaxWilliam, KOLOR pujcovna 2x, Pivovar Hnanice) a u sklepu na trase (Halkoci, Tasovicke vinarstvi). Wasabi oficialni web nema, Hodonice a havranicke sklepy nedohledatelne — ponechan jen telefon/mapa.
