@@ -1,1 +1,1 @@
-deploy 4.7.2026 12:05 — hapOn pryč z highlightů (blokoval horiz. scroll)
+deploy 4.7.2026 12:40 — ověřené otevírací doby o svátcích 5.–6.7.
