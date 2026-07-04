@@ -1,1 +1,1 @@
-deploy 4.7.2026 11:15 — fix ghost clicks při scrollu (hapOn)
+deploy 4.7.2026 11:50 — fix horizontální scroll highlightů
