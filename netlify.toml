@@ -2,6 +2,9 @@
   command = "mkdir -p dist && curl -sSL 'https://wuswoaicjtuodzmrjwgf.supabase.co/storage/v1/object/public/site/index.html' -o dist/index.html"
   publish = "dist"
 
+[functions]
+  directory = "netlify/functions"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
