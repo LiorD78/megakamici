@@ -1,5 +1,5 @@
 // MEGAKÁMÍCI — Settle Up bilance (read-only bot)
-const KEY = "AIzaSyCL5929OM079CEJRa9clwJB-UUxAofSQKY";
+const KEY = process.env.SETTLEUP_API_KEY;
 const DB = "https://settle-up-live.firebaseio.com";
 let tokCache = { token: null, exp: 0 };
 
