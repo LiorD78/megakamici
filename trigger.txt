@@ -1,1 +1,1 @@
-deploy 4.7.2026 11:50 — fix horizontální scroll highlightů
+deploy 4.7.2026 12:05 — hapOn pryč z highlightů (blokoval horiz. scroll)
