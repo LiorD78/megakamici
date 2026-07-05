@@ -1,1 +1,1 @@
-deploy 5.7.2026 13:50 - rename Megachat
+deploy 5.7.2026 14:15 - notifikace + mazani zprav
