@@ -1,1 +1,1 @@
-deploy 5.7.2026 18:40 - podzemi: konkretni casy vstupu + GoOut vstupenky
+deploy 5.7.2026 18:46 - PO: koupene vstupenky Znojemske podzemi Adrenalinova trasa 2, po 6.7. 14:15, sraz Slepici trh 2 (Dum porozumeni), cca 1.5 h, ochranny odev + celovka. Program PO prestaven: dopoledne centrum+vez, obed 13:00, podzemi 14:15. AI kontext: podzemi fixne v pondeli.
