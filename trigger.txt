@@ -1,1 +1,1 @@
-deploy 5.7.2026 17:35 - vetsi avatary precteni
+deploy 5.7.2026 18:05 - vetsi cely chat (+30 %)
