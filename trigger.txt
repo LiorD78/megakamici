@@ -1,1 +1,1 @@
-deploy 5.7.2026 13:35 - kecarna chat
+deploy 5.7.2026 13:50 - rename Megachat
