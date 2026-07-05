@@ -1,1 +1,1 @@
-deploy 5.7.2026 19:40 - Vila / Vecer do sklipku: pesi okruh sklepni ulickou (vila -> Modre sklepy -> Spalek -> Pialek & Jager -> vila, ~1.5 km) jako Mapy.com foot_fast route tlacitko nad kartami sklepu.
+deploy 5.7.2026 20:08 - FIX iOS: po zavreni klavesnice (Megachat input) zustaval visual viewport posunuty a fixed prvky (spodni lista, FABy) visely uprostred obrazovky. Pridan kbSnap scroll-nudge na focusout inputu + visualViewport resize (navrat vysky = klavesnice pryc).
