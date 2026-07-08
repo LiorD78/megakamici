@@ -1,1 +1,1 @@
-deploy 8.7.2026 16:13 - Countdown na HP po uplynuti startu (5.7. 14:00) uplne zmizi: tick() pri diff<=0 skryje cely .cd blok (display:none) a zrusi interval (window._cdInt), misto drivejsiho zobrazovani nul a pivnich pullitru v sekundach. Pred startem se countdown chova stejne jako dosud.
+deploy 8.7.2026 18:02 - Bodovnik party: pridan novy duvod bodu "Kouzlo okamziku" (emoji ✨, popis "vytvoril moment, na ktery se nezapomene") do pole REASONS. Zadna dalsi zmena logiky.
