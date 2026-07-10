@@ -1,1 +1,1 @@
-deploy 8.7.2026 22:18 - Pridan Disco Bar Praha (Prazska 2a, Znojmo): do CLUBS (restaurace+pizzerie+maly diskobar, tel 721 856 218, web barpraha.cz, TA link overen pres search; hodiny disco casti neuvedeny -> warning volat dopredu) a marker do PLACES (48.86096,16.04618 dle OSM node "Praha" amenity=bar, 100 m od GoGo).
+deploy 10.7.2026 21:00 - Pridan sklep "Dva Smysly" (c. 34) do SPOLEK checklistu saldorfskych sklepu (zdroj: program Tydny vinare, sklep 34/S).
